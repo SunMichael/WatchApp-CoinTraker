@@ -10,6 +10,7 @@ import Foundation
 import WatchKit
 import CoinKit
 
+//MARK: http://www.cocoachina.com/swift/20150522/11862.html
 //storeborad里添加的Glance interface 要有对应的conteroller
 //glance测试 要在manage scheme 里duplicat新的scheme info 中watch mian 改成glance
 class CoinGlanceInterfaceController: WKInterfaceController {
