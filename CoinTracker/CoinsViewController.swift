@@ -22,6 +22,7 @@
 
 import UIKit
 import CoinKit
+//MARK: http://www.cocoachina.com/swift/20150519/11860.html
 
 class CoinsViewController: UITableViewController {
   var coins = [Coin]()
